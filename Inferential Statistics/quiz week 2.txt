@@ -1,0 +1,72 @@
+1) An insurance company is reviewing its current policy rates. When originally setting the rates they believed that the average claim amount was $1,800. They are concerned that the true mean is actually higher than this, because they could potentially lose a lot of money. They randomly select 40 claims, which yield a sample mean of $1,950. Which of the following is the correct set of hypotheses for this scenario?
+
+> H0​:μ=1,800
+  HA:μ>1,800
+
+
+2) Your friend likes to show off to his coworkers using statistical terminology, but he makes errors so much that you often have to correct him. He just completed the following hypothesis test:
+right
+Your friend is wrong, the sample size is irrelevant.
+Your friend is wrong, the statement should be revised as “the probability of obtaining a sample mean of 105 from a random sample of n = 40 when the true population mean is assumed to be different than 105.”
+
+
+
+3) Two-sided alternative hypotheses are phrased in terms of:
+> ≠
+
+
+
+4) A Type 1 error occurs when the null hypothesis is
+> rejected when it is true
+
+
+5) A statistician is studying blood pressure levels of Italians in the age range 75-80. The following is some information about her study:
+> because the sample may not be random and hence observations may not be independent.
+
+
+6) SAT scores are distributed with a mean of 1,500 and a standard deviation of 300. You are interested in estimating the average SAT score of first year students at your college. If you would like to limit the margin of error of your 95% confidence interval to 25 points, at least how many students should you sample?
+> 554
+
+
+
+7) If it’s relatively riskier to reject the null hypothesis when it might be true, should a smaller or a larger significance level be used?
+> smaller
+
+
+
+8) If it’s relatively riskier to reject the null hypothesis when it might be true, should a smaller or a larger significance level be used?
+> 0.0688
+
+
+9) True / False: Decreasing the significance level (α\alphaα) will increase the probability of making a Type 1 
+> false
+
+
+
+10) You set up a two-sided hypothesis test for a population mean μ\muμ with a null hypothesis of H0:μ=100H_0 : \mu = 100H0​:μ=100. You chose a significance level of α=0.05\alpha = 0.05α=0.05. The p-value calculated from the data is 0.12, and hence you failed to reject the null hypothesis. Suppose that after your analysis was completed and published, an expert informed you that the true value of μ\muμ is 104. How would you describe the result of your analysis?
+> A Type 2 error was made because you failed to reject the null hypothesis but μ\muμ is really not equal to 100.
+
+
+
+
+11) The nutrition label on a bag of potato chips says that a one ounce (28 gram) serving of potato chips has 130 calories and contains ten grams of fat, with three grams of saturated fat. A random sample of 35 bags yielded a sample mean of 134 calories with a standard deviation of 17 calories. We are evaluating whether these data provide convincing evidence that the nutrition label does not provide an accurate measure of calories in the bags of potato chips at the 10% significance level. Which of the following is correct?
+
+> The p-value is approximately 16%, which means we should reject the null hypothesis and determine that these data provide do  not convincing evidence the nutrition label does not provide an accurate measure of calories in the bags of potato chips.
+
+
+
+12) A study suggests that the average college student spends 2 hours per week communicating with others online. You believe that this is an underestimate and decide to collect your own sample for a hypothesis test. You randomly sample 60 students from your dorm and find that on average they spent 3.5 hours a week communicating with others online. Which of the following is the correct set of hypotheses for this scenario?
+> H0:μ=2HA:μ>2
+
+
+13) A researcher found a 2006 - 2010 survey showing that the average age of women at first marriage is 23.44. Suppose a researcher believes that this value may have increased more recently, but as a good scientist he also wants to consider the possibility that the average age may have decreased. The researcher has set up his hypothesis test; which of the following states the appropriate HAH_AHA
+> H:μ≠23.44 years old
+
+
+
+14) You set up a two-sided hypothesis test for a population mean μ\muμ with a null hypothesis of H0:μ=100H_0 : \mu = 100H0
+> A Type 2 error was made because you failed to reject the null hypothesis but μ\muμ is really not equal to 100.
+
+
+The significance level in hypothesis testing is the probability of 
+> rejecting a true null hypothesis
