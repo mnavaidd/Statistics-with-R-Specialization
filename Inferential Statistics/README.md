@@ -1,9 +1,10 @@
-# Introduction-to-Probability-and-Data
+# Inferential Statistics
 
-This course introduces you to sampling and exploring data, as well as basic probability theory and Bayes' rule. You will examine various types of sampling methods, and discuss how such methods can impact the scope of inference. A variety of exploratory data analysis techniques will be covered, including numeric summary statistics and basic data visualization. You will be guided through installing and using R and RStudio (free statistical software), and will use this software for lab exercises and a final project. The concepts and techniques in this course will serve as building blocks for the inference and modeling courses in the Specialization.
+This course covers commonly used statistical inference methods for numerical and categorical data. You will learn how to set up and perform hypothesis tests, interpret p-values, and report the results of your analysis in a way that is interpretable for clients or the public. Using numerous data examples, you will learn to report estimates of quantities in a way that expresses the uncertainty of the quantity of interest. You will be guided through installing and using R and RStudio (free statistical software), and will use this software for lab exercises and a final project. The course introduces practical tools for performing data analysis and explores the fundamental concepts necessary to interpret and report results for both categorical and numerical data
 
-* Week 1 - About Introduction to Probability and Data
-* Week 2 - Exploratory Data Analysis and Introduction to Inference
-* Week 3 - Introduction to Probability
-* Week 4 - Probability Distributions
+
+* Week 1 - Central Limit Theorem and Confidence Interval
+* Week 2 - Inference and Significance
+* Week 3 - Inference for Comparing Means
+* Week 4 - Inference for Proportions
 * Week 5 - Data Analysis Project
